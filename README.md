@@ -31,5 +31,18 @@ The analysis of the election shows that:
     •	Winning Vote Count: 272,89
 
 Challenge Overview
+
+Following the initial analysis for election results, the election commission also requested voter turnout for each county.  They have requested the following.
+	1.	Determine number of votes cast from each county
+	2.	Percentage of votes each county contributed to the election
+	3.	County with the largest number of voters
+
 Challenge Summary
+The additional analysis of the election shows that:
+	1.	The county results were:
+		•	Jefferson: contributed 10.5% of the total vote with (38,855) votes
+		•	Denver: contributed 82.8% of the total vote with (306,055) votes
+		•	Arapahoe: contributed 6.7% of the total vote with (24,801) votes
+	2.	The county with the largest voter turnout was Denver.
+
 
